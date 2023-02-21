@@ -16,3 +16,5 @@ pip install Pillow
 
 messages: I send --> Blue
 messages: Oposite side --> Gray
+
+pip freeze > requirements.txt --  to create req files for web
