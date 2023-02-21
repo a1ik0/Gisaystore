@@ -1,0 +1,18 @@
+https://www.youtube.com/watch?v=ZxMB6Njs3ck&t=179s
+
+python -m venv env
+virtualenv .env
+source env/Scripts/activate
+pip install django
+django-admin startproject gisaycreates
+python manage.py runserver
+python manage.py startapp core
+install django extension on VScode
+
+python manage.py createsuperuser
+Username: Gulnar Isayeva -- aligul@gisaycreates.com:alugul0622
+
+pip install Pillow
+
+messages: I send --> Blue
+messages: Oposite side --> Gray
