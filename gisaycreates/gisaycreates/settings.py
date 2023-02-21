@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-gf!+)@!4@3c28-lzi%n4*pz$fcawcldjyum#-q%toabd5$yjz0
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['gisaystore.onrender.com']
 
 LOGIN_URL = '/login/'
 LOGIN_REDIRECT_URL = '/'
